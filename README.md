@@ -1,4 +1,4 @@
-# IoT: Internet of the Things
+# IoT: Internet of the Things, *el internet de las cosas*
 
 ### Objetivo
 
@@ -13,8 +13,14 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 | **Clase** | 1 hora |
 | **Práctica** | 30 minutos |
 
-## 1.	Introducción: Mercado y operarios 4.0
-### 1.1 El futuro industrial 4.0
+## 1.Introducción al IoT:
+
+-¿Qué es exactamente el IoT Internet de las Cosas? [link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
+-¿Qué nos ofrecerá?[link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
+-¿cómo cambiará nuestra vida en el futuro? [Link](https://hipertextual.com/2015/06/internet-of-things)
+
+## 2.Mercado y operarios 4.0
+### 2.1 El futuro industrial 4.0
 
 El IoT ha sobrepasado todas las expectativas pasando de ser una esperanza a una realidad. A día de hoy, presenta un margen de integración del 43% a nivel mundial. Esto supondrá una reconfiguración económica global en los próximos años.
 
@@ -32,7 +38,7 @@ El IoT ha sobrepasado todas las expectativas pasando de ser una esperanza a una 
 
 ![alt text](Gap_de_Penetracion.PNG)
 
-### 1.2	Operarios 4.0
+### 2.2	Operarios 4.0
 
 El operario 4.0 surge como evolución natural de la digitalización del entorno laboral. Como carácteristicas necesarias se podrían destacar una necesidad de incrementar su potencialidad, habilidades y capacidad de interactuar con el nuevo entorno de trabajo inteligente, digital y conectado.
 
@@ -48,7 +54,7 @@ El operario 4.0 surge como evolución natural de la digitalización del entorno 
 
 ![alt text](Herramientas_Operarios_4.0.PNG)
 
-## 2. Sectores e impacto:
+## 3. Sectores e impacto:
 
 La implementación de estas nuevas tecnologías supondrá una revolución del entorno laboral y abrirá paso a problemas irresolubles sin el uso de las nuevas herramientas inteligente. El ejemplo más claro a día de hoy es el mantenimiento predictivo que en múltiples casos tan solo es posible de realizarse gracias a la implementación de sensores inteligentes.
 
@@ -65,7 +71,7 @@ La implementación de estas nuevas tecnologías supondrá una revolución del en
 4. [Informe CCOO](http://www.industria.ccoo.es/4290fc51a3697f785ba14fce86528e10000060.pdf): Previsiones de Comisiones Obreras sobre el impacto de la cuarta revolucion industrial en el empleo español. Página 48.
 
 
-## 3. Oportunidades:
+## 4. Oportunidades:
 
 La revolución del entorno industrial generará nuevas oportunidades de empleo y creara nuevas áreas de trabajo. Esto supondrá una oportunidad para todo aquel que se forme en las nuevas tecnologías. Esta imagen engloba unos de los nuevos campos en los cuales se crearán nuevas oportunidades:
 
