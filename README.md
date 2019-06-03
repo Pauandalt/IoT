@@ -13,8 +13,8 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 | **Clase** | 1 hora |
 | **Práctica** | 30 minutos |
 
-## 1.	Introducción:
-### 1.1	Introducción: El futuro industrial 4.0
+## 1.	Introducción: Mercado y operarios 4.0
+### 1.1 El futuro industrial 4.0
 
 El IoT ha sobrepasado todas las expectativas pasando de ser una esperanza a una realidad. A día de hoy, presenta un margen de integración del 43% a nivel mundial. Esto supondrá una reconfiguración económica global en los próximos años.
 
