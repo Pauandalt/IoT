@@ -39,3 +39,7 @@ El operario 4.0 surge como evolución natural de la digitalización del entorno 
 Links de utilidad para el profesor:
 
 1. [El trabajador del futuro](https://www.negociosennavarra.com/trabajador-del-futuro-la-industria-4-0/): se muestra el perfil técnico al que tendrán que adaptarse los trabajadores en el futuro.
+
+2. [Ejemplo práctico: Operario 4.0 Seat](https://www.europapress.es/motor/coches-00640/noticia-seat-presenta-concepto-operario-conectado-ii-congreso-industria-conectada-40-20180926191128.html): un ejemplo real.
+
+3. [Vídeo adecuación del entorno de trabajo](https://www.youtube.com/watch?time_continue=50&v=mBNBELPMuXU): En este video se muestran unos de los cambios que se darán en los operarios.
