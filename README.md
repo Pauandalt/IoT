@@ -59,3 +59,5 @@ La implementación de estas nuevas tecnologías supondrá una revolución del en
 
 2. *Evolución Mantenimiento predictivo:*
 ![alt text](Evolucion_mantenimiento_predictivo.PNG)
+
+3. [Informe Ministerio de Industria] Previsiones del estado español sobre el impacto de la cuarta revolucion industrial en determinados sectores. Páginas 155-156.
