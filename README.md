@@ -8,8 +8,26 @@ Toda revolución industrial ha supuesto un cambio basándose en determinadas má
 
 | Contenido | Duración |
 | ----- | ----- |
-| **Clase** | 1 hora - 1 hora |
+| **Clase** | 1 hora |
 | **Práctica** | 30 minutos |
 
 
 ## 1.1	Introducción:
+
+El IoT ha sobrepasado todas las expectativas pasando de ser una esperanza a una realidad. A día de hoy, presenta un márgen de integración del 43% a nivel mundial. Esto supondrá una reconfiguración económica global en los próximos años.
+
+*Gráficas e imagenes que muestran el cambio:*
+
+*Evolución del IoT:*
+
+![alt text](Crecimiento_IoT.PNG)
+
+*Crecimiento por sectores:*
+
+![alt text](Sectores_IoT.PNG)
+
+*Gap de penetración del IoT:*
+
+![alt text](Gap_de_Penetracion.PNG)
+
+
