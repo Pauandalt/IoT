@@ -38,4 +38,4 @@ El operario 4.0 surge como evolución natural de la digitalización del entorno 
 
 Links de utilidad para el profesor:
 
-1. [El trabajador del futuro](https://www.negociosennavarra.com/trabajador-del-futuro-la-industria-4-0/)
+1. [El trabajador del futuro](https://www.negociosennavarra.com/trabajador-del-futuro-la-industria-4-0/): se muestra el perfil técnico al que tendrán que adaptarse los trabajadores en el futuro.
