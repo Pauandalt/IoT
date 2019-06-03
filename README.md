@@ -24,6 +24,7 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 -Ejemplos de aplicaciones de IoT:
 
 [Link 1: 25 ejemplos de aplicación](https://soniadurolimia.com/25-ejemplos-internet-de-las-cosas-te-dejaran-la-boca-abierta/)
+
 [Link 2: 10 ejemplos cotidianos](https://www.idat.edu.pe/blog/internet-de-las-cosas-10-ejemplos-innovadores)
 
 -[Video: Iot aplicación en casa](https://www.youtube.com/watch?v=VTs5y1QlEtk)
