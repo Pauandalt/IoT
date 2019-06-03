@@ -13,8 +13,8 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 | **Clase** | 1 hora |
 | **Práctica** | 30 minutos |
 
-
-## 1.1	Introducción: El futuro industrial 4.0
+## 1.	Introducción:
+### 1.1	Introducción: El futuro industrial 4.0
 
 El IoT ha sobrepasado todas las expectativas pasando de ser una esperanza a una realidad. A día de hoy, presenta un margen de integración del 43% a nivel mundial. Esto supondrá una reconfiguración económica global en los próximos años.
 
@@ -32,7 +32,7 @@ El IoT ha sobrepasado todas las expectativas pasando de ser una esperanza a una 
 
 ![alt text](Gap_de_Penetracion.PNG)
 
-## 1.2	Operarios 4.0
+### 1.2	Operarios 4.0
 
 El operario 4.0 surge como evolución natural de la digitalización del entorno laboral. Como carácteristicas necesarias se podrían destacar una necesidad de incrementar su potencialidad, habilidades y capacidad de interactuar con el nuevo entorno de trabajo inteligente, digital y conectado.
 
