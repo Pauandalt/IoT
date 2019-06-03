@@ -16,7 +16,9 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 ## 1.Introducción al IoT:
 
 -¿Qué es exactamente el IoT Internet de las Cosas? [link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
+
 -¿Qué nos ofrecerá?[link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
+
 -¿cómo cambiará nuestra vida en el futuro? [Link](https://hipertextual.com/2015/06/internet-of-things)
 
 ## 2.Mercado y operarios 4.0
