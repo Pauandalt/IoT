@@ -67,5 +67,7 @@ La implementación de estas nuevas tecnologías supondrá una revolución del en
 
 ## 3. Oportunidades:
 
-La revolución del entorno industrial generará nuevas oportunidades de empleo.
+La revolución del entorno industrial generará nuevas oportunidades de empleo y creara nuevas áreas de trabajo. Esto supondrá una oportunidad para todo aquel que se forme en las nuevas tecnologías. Esta imagen engloba unos de los nuevos campos en los cuales se crearán nuevas oportunidades:
+
+![alt text](Oportunidades_IoT.PNG)
 
