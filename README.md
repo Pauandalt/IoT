@@ -61,3 +61,5 @@ La implementación de estas nuevas tecnologías supondrá una revolución del en
 ![alt text](Evolucion_mantenimiento_predictivo.PNG)
 
 3. [Informe Ministerio de Industria](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/406/BLANCO,%20FONTRODONA%20Y%20POVEDA.pdf): Previsiones del estado español sobre el impacto de la cuarta revolucion industrial en determinados sectores. Páginas 155-156.
+
+3. [Informe CCOO](http://www.industria.ccoo.es/4290fc51a3697f785ba14fce86528e10000060.pdf): Previsiones de Comisiones Obreras sobre el impacto de la cuarta revolucion industrial en el empleo español. Página 48.
