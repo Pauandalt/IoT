@@ -67,3 +67,5 @@ La implementación de estas nuevas tecnologías supondrá una revolución del en
 
 ## 3. Oportunidades:
 
+La revolución del entorno industrial generará nuevas oportunidades de empleo.
+
