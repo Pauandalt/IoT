@@ -56,3 +56,6 @@ La implementación de estas nuevas tecnologías supondrá una revolución del en
 
 1. *Desarrollo Mantenimiento predictivo:*
 ![alt text](Mantenimiento_Predictivo.PNG)
+
+2. *Evolución Mantenimiento predictivo:*
+![alt text](Evolucion_mantenimiento_predictivo.PNG)
