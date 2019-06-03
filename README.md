@@ -44,6 +44,6 @@ El operario 4.0 surge como evolución natural de la digitalización del entorno 
 
 3. [Vídeo adecuación del entorno de trabajo](https://www.youtube.com/watch?time_continue=50&v=mBNBELPMuXU): En este video se muestran unos de los cambios que se darán en los operarios.
 
-4. *Imagen descriptiva: *
+4. *Imagen descriptiva:*
 
 ![alt text](Herramientas_Operarios_4.0.PNG)
