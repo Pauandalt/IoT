@@ -10,8 +10,14 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 
 | Contenido | Duración |
 | ----- | ----- |
-| **Clase** | 1 hora |
-| **Práctica** | 30 minutos |
+| **Clase** | **1 hora** |
+|  Introducción: Descripción del IoT | 15-20 minutos |
+|  Futuro Industrial 4.0 | 10 minutos |
+|  Operario Industrial 4.0 | 10 minutos |
+|  Sectores e Impacto | 10 minutos |
+|  Oportunidades | 10 minutos |
+| ----- | ----- |
+| **Práctica** | **30 minutos** |
 
 ## 1.Introducción al IoT:
 
