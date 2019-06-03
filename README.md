@@ -19,7 +19,14 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 
 -¿Qué nos ofrecerá?[link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
 
--¿cómo cambiará nuestra vida en el futuro? [Link](https://hipertextual.com/2015/06/internet-of-things)
+-¿Cómo cambiará nuestra vida en el futuro? [Link](https://hipertextual.com/2015/06/internet-of-things)
+
+-Ejemplos de aplicaciones de IoT:
+
+[Link 1: 25 ejemplos de aplicación](https://soniadurolimia.com/25-ejemplos-internet-de-las-cosas-te-dejaran-la-boca-abierta/)
+[Link 2: 10 ejemplos cotidianos](https://www.idat.edu.pe/blog/internet-de-las-cosas-10-ejemplos-innovadores)
+
+-[Video: Iot aplicación en casa](https://www.youtube.com/watch?v=VTs5y1QlEtk)
 
 ## 2.Mercado y operarios 4.0
 ### 2.1 El futuro industrial 4.0
