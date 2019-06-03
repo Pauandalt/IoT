@@ -43,3 +43,5 @@ Links de utilidad para el profesor:
 2. [Ejemplo práctico: Operario 4.0 Seat](https://www.europapress.es/motor/coches-00640/noticia-seat-presenta-concepto-operario-conectado-ii-congreso-industria-conectada-40-20180926191128.html): un ejemplo real.
 
 3. [Vídeo adecuación del entorno de trabajo](https://www.youtube.com/watch?time_continue=50&v=mBNBELPMuXU): En este video se muestran unos de los cambios que se darán en los operarios.
+
+[]!(https://www.youtube.com/watch?time_continue=50&v=mBNBELPMuXU) 
