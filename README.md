@@ -47,3 +47,12 @@ El operario 4.0 surge como evolución natural de la digitalización del entorno 
 4. *Imagen descriptiva:*
 
 ![alt text](Herramientas_Operarios_4.0.PNG)
+
+## 2. Sectores e impacto:
+
+La implementación de estas nuevas tecnologías supondrá una revolución del entorno laboral y abrirá paso a problemas irresolubles sin el uso de las nuevas herramientas inteligente. El ejemplo más claro a día de hoy es el mantenimiento predictivo que en múltiples casos tan solo es posible de realizarse gracias a la implementación de sensores inteligentes.
+
+*Links e imágenes de utilidad para el profesor:*
+
+1. *Desarrollo Mantenimiento predictivo:*
+![alt text](Mantenimiento_Predictivo.PNG)
