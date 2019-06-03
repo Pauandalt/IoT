@@ -36,7 +36,7 @@ El IoT ha sobrepasado todas las expectativas pasando de ser una esperanza a una 
 
 El operario 4.0 surge como evolución natural de la digitalización del entorno laboral. Como carácteristicas necesarias se podrían destacar una necesidad de incrementar su potencialidad, habilidades y capacidad de interactuar con el nuevo entorno de trabajo inteligente, digital y conectado.
 
-Links de utilidad para el profesor:
+*Links e imágenes de utilidad para el profesor:*
 
 1. [El trabajador del futuro](https://www.negociosennavarra.com/trabajador-del-futuro-la-industria-4-0/): se muestra el perfil técnico al que tendrán que adaptarse los trabajadores en el futuro.
 
@@ -44,4 +44,6 @@ Links de utilidad para el profesor:
 
 3. [Vídeo adecuación del entorno de trabajo](https://www.youtube.com/watch?time_continue=50&v=mBNBELPMuXU): En este video se muestran unos de los cambios que se darán en los operarios.
 
-[]!(https://www.youtube.com/watch?time_continue=50&v=mBNBELPMuXU) 
+4. *Imagen descriptiva: *
+
+![alt text](Herramientas_Operarios_4.0.PNG)
