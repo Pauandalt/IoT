@@ -32,10 +32,8 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 
 [Link 2: 10 ejemplos cotidianos](https://www.idat.edu.pe/blog/internet-de-las-cosas-10-ejemplos-innovadores)
 
-<a href="https://www.youtube.com/watch?v=VTs5y1QlEtk" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![IMAGE ALT TEXT HERE](videpo_IoT_EnCasa.PNG)](https://www.youtube.com/watch?v=VTs5y1QlEtk)
 
-[Video: Iot aplicación en casa](https://www.youtube.com/watch?v=VTs5y1QlEtk)
 
 ## 2.Mercado y operarios 4.0
 ### 2.1 El futuro industrial 4.0
