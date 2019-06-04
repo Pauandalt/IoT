@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Toda revolución industrial ha supuesto un cambio basándose en determinadas máquinas desde la máquina de vapor hasta los ordenadores o móviles de hoy en día. La cuarta revolución industrial supondrá un cambio incluso en este concepto. Y es que, la máquina tractora de crecimiento industrial asociado a la generación de nuevos modelos económicos de crecimiento será todo aquel artilugio capaz de interconectarse e interactuar con el resto.
+Toda revolución industrial ha supuesto un cambio basándose en determinadas máquinas desde la máquina de vapor hasta los móviles u ordenadores de hoy en día. La cuarta revolución industrial supondrá un cambio incluso en este concepto. Y es que, la máquina tractora de crecimiento industrial asociado a la generación de nuevos modelos económicos de crecimiento será todo aquel artilugio capaz de interconectarse e interactuar con el resto.
 
 ![alt text](IoT%20inicio.PNG)
 
@@ -17,6 +17,7 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 |  Sectores e Impacto | 10 minutos |
 |  Oportunidades | 10 minutos |
 | **Práctica** | **30 minutos** |
+| [**Práctica 1**](https://pauandalt.github.io/Practica_IoT/) | **10 minutos** |
 
 ## 1.Introducción al IoT:
 
