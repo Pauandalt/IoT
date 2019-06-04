@@ -17,7 +17,8 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 |  Sectores e Impacto | 10 minutos |
 |  Oportunidades | 10 minutos |
 | **Práctica** | **30 minutos** |
-| [**Práctica 1**](https://pauandalt.github.io/Practica_IoT/) | **10 minutos** |
+| [Práctica 1](https://pauandalt.github.io/Practica_IoT/) | 10 minutos |
+| [Práctica 2](https://pauandalt.github.io/Practica_IoT2/) | 20 minutos |
 
 
 ***
