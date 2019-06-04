@@ -21,7 +21,7 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 
 ## 1.Introducción al IoT:
 
--¿Qué es exactamente el IoT Internet de las Cosas? [link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
+-¿Qué es exactamente el IoT Internet de las Cosas? [link1](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html), [link 2](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/406/BLANCO,%20FONTRODONA%20Y%20POVEDA.pdf)
 
 -¿Qué nos ofrecerá?[link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
 
