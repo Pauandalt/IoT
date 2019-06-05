@@ -62,7 +62,7 @@ El IoT ha sobrepasado todas las expectativas pasando de ser una esperanza a una 
 
 ### 2.2	Operarios 4.0
 
-El operario 4.0 surge como evolución natural de la digitalización del entorno laboral. Como carácteristicas necesarias se podrían destacar una necesidad de incrementar su potencialidad, habilidades y capacidad de interactuar con el nuevo entorno de trabajo inteligente, digital y conectado.
+El operario 4.0 surge como evolución natural de la digitalización del entorno laboral. Como características necesarias se podrían destacar una necesidad de incrementar su potencialidad, habilidades y capacidad de interactuar con el nuevo entorno de trabajo inteligente, digital y conectado.
 
 *Links e imágenes de utilidad para el profesor:*
 
@@ -88,9 +88,9 @@ La implementación de estas nuevas tecnologías supondrá una revolución del en
 2. *Evolución Mantenimiento predictivo:*
 ![alt text](Evolucion_mantenimiento_predictivo.PNG)
 
-3. [Informe Ministerio de Industria](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/406/BLANCO,%20FONTRODONA%20Y%20POVEDA.pdf): Previsiones del estado español sobre el impacto de la cuarta revolucion industrial en determinados sectores. Páginas 155-156.
+3. [Informe Ministerio de Industria](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/406/BLANCO,%20FONTRODONA%20Y%20POVEDA.pdf): Previsiones del estado español sobre el impacto de la cuarta revolución industrial en determinados sectores. Páginas 155-156.
 
-4. [Informe CCOO](http://www.industria.ccoo.es/4290fc51a3697f785ba14fce86528e10000060.pdf): Previsiones de Comisiones Obreras sobre el impacto de la cuarta revolucion industrial en el empleo español. Página 48.
+4. [Informe CCOO](http://www.industria.ccoo.es/4290fc51a3697f785ba14fce86528e10000060.pdf): Previsiones de Comisiones Obreras sobre el impacto de la cuarta revolución industrial en el empleo español. Página 48.
 
 
 ## 4. Oportunidades:
