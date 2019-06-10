@@ -4,7 +4,7 @@
 
 Toda revolución industrial ha supuesto un cambio basándose en determinadas máquinas desde la máquina de vapor hasta los móviles u ordenadores de hoy en día. La cuarta revolución industrial supondrá un cambio incluso en este concepto. Y es que, la máquina tractora de crecimiento industrial asociado a la generación de nuevos modelos económicos de crecimiento será todo aquel artilugio capaz de interconectarse e interactuar con el resto.
 
-![alt text](IoT%20inicio.PNG)
+
 
 Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que está previsto para el mundo laboral en los próximos años y cómo afectará al mismo. Por otro lado, se pretende familiarizar al alumno con este entorno aclarando conceptos técnicos.
 
@@ -26,17 +26,24 @@ Por ello, mediante esta clase se pretende hacer ver a todo alumno el cambio que 
 
 ## 1.Introducción al IoT:
 
--¿Qué es exactamente el IoT Internet de las Cosas? [link1](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html), [link 2](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/406/BLANCO,%20FONTRODONA%20Y%20POVEDA.pdf)
+-¿Qué es exactamente el IoT Internet de las Cosas? 
++ [Link1](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html), 
++ [Link 2](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/406/BLANCO,%20FONTRODONA%20Y%20POVEDA.pdf)
 
--¿Qué nos ofrecerá?[link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
+-¿Qué nos ofrecerá?
 
--¿Cómo cambiará nuestra vida en el futuro? [Link](https://hipertextual.com/2015/06/internet-of-things)
++ [link](https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html)
++ Imagen:
+![alt text](IoT%20inicio.PNG)
+
+-¿Cómo cambiará nuestra vida en el futuro? 
++ [Link](https://hipertextual.com/2015/06/internet-of-things)
 
 -Ejemplos de aplicaciones de IoT:
 
-[Link 1: 25 ejemplos de aplicación](https://soniadurolimia.com/25-ejemplos-internet-de-las-cosas-te-dejaran-la-boca-abierta/)
++ [Link 1: 25 ejemplos de aplicación](https://soniadurolimia.com/25-ejemplos-internet-de-las-cosas-te-dejaran-la-boca-abierta/)
 
-[Link 2: 10 ejemplos cotidianos](https://www.idat.edu.pe/blog/internet-de-las-cosas-10-ejemplos-innovadores)
++ [Link 2: 10 ejemplos cotidianos](https://www.idat.edu.pe/blog/internet-de-las-cosas-10-ejemplos-innovadores)
 
 [![IMAGE ALT TEXT HERE](videpo_IoT_EnCasa.PNG)](https://www.youtube.com/watch?v=VTs5y1QlEtk)
 
